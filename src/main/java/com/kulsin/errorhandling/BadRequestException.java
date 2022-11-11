@@ -1,4 +1,4 @@
-package com.kulsin.client;
+package com.kulsin.errorhandling;
 
 public class BadRequestException extends Exception {
 }

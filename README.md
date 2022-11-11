@@ -1,1 +1,1 @@
-# spring-boot-template
+# spring-cloud-openfeign-example
